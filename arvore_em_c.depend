@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1698070109 source:c:\users\gabriel m\desktop\arvore_em_c\arvore_em_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<stdbool.h>
+
